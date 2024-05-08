@@ -1,0 +1,127 @@
+body{
+  background: linear-gradient(#21107e, #0a193d,#42086811,#00000011,#b52195, #85179b);
+}
+h1{
+  color: #e01fd0;
+  text-align: center;
+}
+p{
+  color: #aeff00;
+  text-align: center;
+}
+h2{
+  color: #aeff00;
+  text-align: center;
+}
+h4{
+  color: #e01fd0;
+}
+li{
+  color: #aeff00;
+  text-align: center;
+}
+img{
+  width: 300px;
+  border-radius: 50%;
+
+}
+#samuel{
+  border: 5px outset #da36dd;
+  margin: 0px 400px 0px 400px;
+}
+#carlos{
+  border: 5px outset #5bd7ae;
+  width: 30px;
+  margin: 0px 0px 0px 0px;
+}
+.game-board{
+  width:80%;
+  height:500px;
+  border:5px solid #c827dd;
+  margin:0 auto;
+   position: relative;
+   overflow: hidden;
+   
+  }
+
+#a{
+  width: 150px;
+  border-radius: 50%;
+  border: 5px outset #720481;
+  margin: 10px 0px 10px 500px;
+}
+#b{
+  width: 150px;
+  border-radius: 50%;
+  border: 5px outset #720481;
+  margin: 10px 0px 10px 500px;
+}
+#c{
+  width: 150px;
+  border-radius: 50%;
+  border: 5px outset #720481;
+  margin: 10px 0px 10px 500px;
+}
+#d{
+  width: 150px;
+  border-radius: 50%;
+  border: 5px outset #720481;
+  margin: 10px 0px 10px 500px;
+}
+#e{
+  width: 150px;
+  border-radius: 50%;
+  border: 5px outset #720481;
+  margin: 10px 0px 10px 500px;
+}
+#f{
+  width: 150px;
+  border-radius: 50%;
+  border: 5px outset #720481;
+  margin: 10px 0px 10px 500px;
+}
+#g{
+  width: 150px;
+  border-radius: 50%;
+  border: 5px outset #720481;
+  margin: 10px 0px 10px 500px;
+}
+#h{
+  width: 150px;
+  border-radius: 50%;
+  border: 5px outset #720481;
+  margin: 10px 0px 10px 500px;
+}
+#i{
+  width: 150px;
+  border-radius: 50%;
+  border: 5px outset #720481;
+  margin: 10px 0px 10px 500px;
+}
+#J{
+  width: 150px;
+  border-radius: 50%;
+  border: 5px outset #720481;
+  margin: 10px 0px 10px 500px;
+}
+#K{
+  width: 150px;
+  border-radius: 50%;
+  border: 5px outset #720481;
+  margin: 10px 0px 10px 500px;
+}
+#L{
+  width: 150px;
+  border-radius: 50%;
+  border: 5px outset #720481;
+  margin: 10px 0px 10px 500px;
+}
+#M{
+  width: 150px;
+  border-radius: 50%;
+  border: 5px outset #720481;
+  margin: 10px 0px 10px 500px;
+}
+
+
+
